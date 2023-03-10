@@ -6,8 +6,8 @@ based on paper: https://arxiv.org/abs/1503.03832
 Trained Inception network to directly learn a 128-dimensional mapping (no intermediate bottleneck) from face images to a compact
 Euclidean space where distances directly correspond to a measure of face similarity.
 
-![Anchor][./imgs/anchor.png]
+![Anchor](./imgs/anchor.png)
 
-![Loss function][./imgs/loss.png]
+![Loss function](./imgs/loss.png)
 
-![Model][./imgs/model.png]
+![Model](./imgs/model.png)
